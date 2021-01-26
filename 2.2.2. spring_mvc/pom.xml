@@ -19,8 +19,9 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>${spring.version}</version>
+            <version>5.3.3</version>
         </dependency>
+
 
         <dependency>
             <groupId>javax.servlet</groupId>
